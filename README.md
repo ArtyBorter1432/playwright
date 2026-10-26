@@ -11,3 +11,4 @@
 pip install -r requirements.txt
 playwright install chromium
 pytest tests/ -v
+![alt text](image.png)
